@@ -1,7 +1,6 @@
 # Proyecto_redes_n-1
 
-markdown
-Copy code
+
 # Cuatro en Línea - Juego Cliente/Servidor
 
 Este es un proyecto implementado en C++ que simula el juego Cuatro en Línea utilizando el modelo Cliente/Servidor y sockets para la comunicación entre los procesos. El servidor gestiona el juego y permite múltiples conexiones de clientes simultáneamente, mientras que el cliente se conecta al servidor para jugar.
@@ -47,8 +46,6 @@ Para ejecutar el servidor:
 
 $ ./servidor <puerto>
 
-go
-Copy code
 
 Donde `<puerto>` es el puerto donde recibirá conexiones.
 
@@ -56,8 +53,7 @@ Para ejecutar el cliente:
 
 $ ./cliente <dirección_IP_servidor> <puerto>
 
-markdown
-Copy code
+
 
 Donde `<dirección_IP_servidor>` es la dirección IP del servidor y `<puerto>` es el puerto al cual conectar en el servidor.
 
@@ -65,9 +61,7 @@ Donde `<dirección_IP_servidor>` es la dirección IP del servidor y `<puerto>` e
 
 La salida por la terminal proporciona información sobre el estado de las conexiones y el progreso del juego tanto para el servidor como para los clientes.
 
-## Entrega
 
-Este proyecto está subido a [GitLab](enlace_al_repositorio).
 
 ## Normas Básicas
 
