@@ -1,8 +1,8 @@
 # Proyecto_Redes_Numero°1
 
    # Integrantes:
-                 - Cristopher Saez
-                 - Jorge Martinez
+         Cristopher Saez
+         Jorge Martinez
 
 # Cuatro en Línea - Juego Cliente/Servidor
 
