@@ -44,24 +44,12 @@ El servidor se levanta y espera por conexiones de clientes, luego sigue estos pa
 
 Para ejecutar el servidor:
 
-$ ./servidor <puerto>
-
-
-Donde `<puerto>` es el puerto donde recibirá conexiones.
-
-Para ejecutar el cliente:
-
-$ ./cliente <dirección_IP_servidor> <puerto>
-
-
-
-Donde `<dirección_IP_servidor>` es la dirección IP del servidor y `<puerto>` es el puerto al cual conectar en el servidor.
+$ ./server puerto
+$ ./client IP Puerto
 
 ## Salida por la Terminal
 
 La salida por la terminal proporciona información sobre el estado de las conexiones y el progreso del juego tanto para el servidor como para los clientes.
-
-
 
 ## Normas Básicas
 
