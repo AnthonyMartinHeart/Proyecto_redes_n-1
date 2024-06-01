@@ -45,6 +45,8 @@ El servidor se levanta y espera por conexiones de clientes, luego sigue estos pa
 Para ejecutar el servidor:
 
 $ ./server puerto
+
+
 $ ./client IP Puerto
 
 ## Salida por la Terminal
