@@ -44,10 +44,10 @@ El servidor se levanta y espera por conexiones de clientes, luego sigue estos pa
 
 Para ejecutar el servidor:
 
-$ ./a.out <puerto>
+$ ./a.out [puerto]
 
 
-$ ./a.out <IP del servidor> <puerto>
+$ ./a.out [IP del servidor] [puerto]
 
 ## Salida por la Terminal
 
